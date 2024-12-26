@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Prabhat Uppuluri 👋
 
 <!--
 **PrabhatUppuluri/PrabhatUppuluri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi there, I'm Prabhat Uppuluri 👋
+
+I am an aspiring AI/ML Engineer studying at IIT Jammu. I specialize in developing and scaling AI chatbots, with hands-on experience in LLM's. I'm deeply passionate about exploring Generative AI and their practical applications in solving real-world problems.
+
