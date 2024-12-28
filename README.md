@@ -4,7 +4,7 @@ I am an aspiring AI/ML Engineer studying at IIT Jammu. I specialize in developin
 
 ## 🌱 I'm currently learning:
 
-- Deep Learning and Neural Networks from the ground up
+- Deep Learning and Neural Networks
 - Building and fine-tuning Large Language Models (LLMs)
 - Practical applications of Generative AI
 - RAG (Retrieval-Augmented Generation) systems for enhanced AI applications
