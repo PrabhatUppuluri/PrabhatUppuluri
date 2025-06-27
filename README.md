@@ -11,7 +11,7 @@ I am an aspiring AI/ML Engineer studying at IIT Jammu. I specialize in developin
 
 ## 🔭 I'm currently working on:
 - Microsoft Teams Conversational Bot using LangChain and OpenAI.
-- Q&A App with LLM integration and agent escalation capabilities.
+- Q&A App with Llama integration and agent escalation capabilities.
 
 ## 🤝 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prabhatuppuluri)
