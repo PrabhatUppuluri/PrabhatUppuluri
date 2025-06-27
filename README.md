@@ -7,7 +7,7 @@ I am an aspiring AI/ML Engineer studying at IIT Jammu. I specialize in developin
 - Deep Learning and Neural Networks
 - Building and fine-tuning Large Language Models (LLMs)
 - Practical applications of Generative AI
-- RAG (Retrieval-Augmented Generation) systems for enhanced AI applications
+- RAG (Retrieval-Augmented Generation) systems for real-world AI applications
 
 ## 🔭 I'm currently working on:
 - Microsoft Teams Conversational Bot using LangChain and OpenAI.
